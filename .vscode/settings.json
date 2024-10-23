@@ -1,0 +1,7 @@
+{
+   "includePath": [
+      "${workspaceFlsolder}/**",
+      "/home/lukmanulhakim/Arduino/libraries",
+      "/home/lukmanulhakim/code/arduino/libraries"
+   ]
+}
